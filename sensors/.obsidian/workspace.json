@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "b3df194151982ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d299deb0f8669051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "720484b4c10c86d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "أجهزة الإحساس الضوئية المتكاملة.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "أجهزة الإحساس الضوئية المتكاملة"
+            }
+          },
+          {
+            "id": "9c927677bccb77d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "الضوء/أجهزة الإحساس الضوئية المتكاملة 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "أجهزة الإحساس الضوئية المتكاملة 2"
+            }
+          },
+          {
+            "id": "407f5b4956f12d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "الضوء/4- أجهزة الإحساس الضوئية المتكاملة.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4- أجهزة الإحساس الضوئية المتكاملة"
+            }
+          },
+          {
+            "id": "c5016b9ed6a2215b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "الضوء/3- الترانزستور الضوئي.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3- الترانزستور الضوئي"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58629c15dce7288a",
+    "type": "split",
+    "children": [
+      {
+        "id": "481211eb9716b310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c5e23347aa1a5b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a8fcceee79dd6c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccd5f58f899243c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02345ec2bb7c7966",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcdc27b73a2c04a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c9e1c4498479823",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "الضوء/1- جهاز ذو موصلية ضوئية.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1- جهاز ذو موصلية ضوئية"
+            }
+          },
+          {
+            "id": "0453e0b3f72d2d8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "الضوء/1- جهاز ذو موصلية ضوئية.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1- جهاز ذو موصلية ضوئية"
+            }
+          },
+          {
+            "id": "22bd7c9760a41c75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4e020a6e8fc2e66e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "الضوء/1- جهاز ذو موصلية ضوئية.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1- جهاز ذو موصلية ضوئية"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5016b9ed6a2215b",
+  "lastOpenFiles": [
+    "الضوء/4- أجهزة الإحساس الضوئية المتكاملة.md",
+    "الضوء/3- الترانزستور الضوئي.md",
+    "أجهزة الإحساس الضوئية المتكاملة.md",
+    "الضوء/1- جهاز ذو موصلية ضوئية.md",
+    "الضوء/2- الدايودات الضوئية.md",
+    "Welcome.md",
+    "الضوء"
+  ]
+}
