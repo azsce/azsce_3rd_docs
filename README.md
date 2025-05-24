@@ -2,40 +2,67 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+مواد كلية الهندسة | Engineering College Courses
 
-```
-$ yarn
-```
+موقع توثيق المواد التعليمية لكلية الهندسة  
+Educational documentation website for Engineering College courses
 
-### Local Development
+## المحتوى | Content
 
-```
-$ yarn start
-```
+- مجسات ومحولات قدرة (Sensors and Power Transducers)
+- المزيد قريباً... (More coming soon...)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## التقنيات المستخدمة | Technical Stack
 
-### Build
+- [Docusaurus 3](https://docusaurus.io/)
+- React
+- TypeScript
+- KaTeX (for mathematical equations)
+- Mermaid (for diagrams)
+- [Bun](https://bun.sh/) as Runtime & Package Manager
 
-```
-$ yarn build
-```
+## التطوير المحلي | Local Development
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### المتطلبات | Requirements
 
-### Deployment
+- [Bun](https://bun.sh/) (latest version)
 
-Using SSH:
+### التثبيت | Installation
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```bash
+bun install
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### تشغيل خادم التطوير | Run Development Server
+
+```bash
+bun start
+```
+
+سيتم فتح الموقع تلقائياً على المتصفح على الرابط: http://localhost:3000  
+The site will automatically open in your browser at: http://localhost:3000
+
+### البناء | Build
+
+```bash
+bun run build
+```
+
+### النشر | Deployment
+
+لنشر الموقع على GitHub Pages:  
+To deploy the site to GitHub Pages:
+
+```bash
+bun run deploy
+```
+
+## المساهمة | Contributing
+
+نرحب بمساهماتكم! يرجى إنشاء pull request لأي تحسينات أو تصحيحات.  
+Contributions are welcome! Please create a pull request for any improvements or corrections.
+
+## الترخيص | License
+
+هذا المشروع مرخص تحت رخصة MIT.  
+This project is licensed under the MIT License.
