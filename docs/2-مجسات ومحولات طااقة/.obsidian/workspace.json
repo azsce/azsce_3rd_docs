@@ -1,126 +1,41 @@
 {
   "main": {
-    "id": "b3df194151982ad2",
+    "id": "2b67b5be8ab17b21",
     "type": "split",
     "children": [
       {
-        "id": "172d9f2ceb6f89a2",
+        "id": "6dac0b06c5c33342",
         "type": "tabs",
         "children": [
           {
-            "id": "29c7c52fb95a6142",
+            "id": "e62ef221e4dc88ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الحرارة/حل سؤال مقاومة بلاتيني.md",
+                "file": "8-المجال/7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "حل سؤال مقاومة بلاتيني"
-            }
-          },
-          {
-            "id": "a53a4f853fa86b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "المجال/1-  إحساس تأثير المجال (المقدمة).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-  إحساس تأثير المجال (المقدمة)"
-            }
-          },
-          {
-            "id": "5cccf7944e190258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "المجال/2- أساس تأثير هل.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2- أساس تأثير هل"
-            }
-          },
-          {
-            "id": "ce40667a47ec9d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "المجال/3- تشييد تأثير هل.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3- تشييد تأثير هل"
-            }
-          },
-          {
-            "id": "b908782be9967206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "المجال/4- نبائط إحساس هل المتكاملة.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4- نبائط إحساس هل المتكاملة"
-            }
-          },
-          {
-            "id": "0e43a468da9c51fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "المجال/5- أجهزة هل لجسم متكامل.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5- أجهزة هل لجسم متكامل"
-            }
-          },
-          {
-            "id": "625b9b25b139dd92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "أجهزة هل المتعامدة.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "أجهزة هل المتعامدة"
+              "title": "7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "58629c15dce7288a",
+    "id": "6fa9eddf922cd51f",
     "type": "split",
     "children": [
       {
-        "id": "481211eb9716b310",
+        "id": "8770ada63fcce482",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5e23347aa1a5b3",
+            "id": "5827e87df007ec72",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -133,7 +48,7 @@
             }
           },
           {
-            "id": "5a8fcceee79dd6c0",
+            "id": "dc9f3f5a832114ce",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -150,7 +65,7 @@
             }
           },
           {
-            "id": "ccd5f58f899243c4",
+            "id": "514c5157d07deffa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -166,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "02345ec2bb7c7966",
+    "id": "0707b3abc842762d",
     "type": "split",
     "children": [
       {
-        "id": "bcdc27b73a2c04a6",
+        "id": "418ed19d7989c321",
         "type": "tabs",
         "children": [
           {
-            "id": "0c9e1c4498479823",
+            "id": "19d820ca0ca014ba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "الضوء/1- جهاز ذو موصلية ضوئية.md",
+                "file": "8-المجال/7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1- جهاز ذو موصلية ضوئية"
+              "title": "Backlinks for 7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي"
             }
           },
           {
-            "id": "0453e0b3f72d2d8d",
+            "id": "bbb14e0355bf8b55",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "الضوء/1- جهاز ذو موصلية ضوئية.md",
+                "file": "8-المجال/7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1- جهاز ذو موصلية ضوئية"
+              "title": "Outgoing links from 7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي"
             }
           },
           {
-            "id": "22bd7c9760a41c75",
+            "id": "d4a45c527a44c296",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,18 +137,18 @@
             }
           },
           {
-            "id": "4e020a6e8fc2e66e",
+            "id": "6efbbb478f809ab5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "الضوء/1- جهاز ذو موصلية ضوئية.md",
+                "file": "8-المجال/7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1- جهاز ذو موصلية ضوئية"
+              "title": "Outline of 7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي"
             }
           }
         ]
@@ -253,25 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "625b9b25b139dd92",
+  "active": "e62ef221e4dc88ca",
   "lastOpenFiles": [
-    "المجال/5- أجهزة هل لجسم متكامل.md",
-    "أجهزة هل المتعامدة.md",
-    "المجال/4- نبائط إحساس هل المتكاملة.md",
-    "المجال/3- تشييد تأثير هل.md",
-    "المجال/2- أساس تأثير هل.md",
-    "المجال/1-  إحساس تأثير المجال (المقدمة).md",
-    "الحرارة/حل سؤال مقاومة بلاتيني.md",
-    "الحرارة",
-    "المجال",
-    "الضوء/تمارين (۷).md",
-    "الضوء/3- الترانزستور الضوئي.md",
-    "أجهزة الإحساس الضوئية المتكاملة.md",
-    "الضوء/4- أجهزة الإحساس الضوئية المتكاملة.md",
-    "الضوء/تمارين (۷) K.md",
-    "الضوء/1- جهاز ذو موصلية ضوئية.md",
-    "الضوء/2- الدايودات الضوئية.md",
-    "Welcome.md",
-    "الضوء"
+    "8-المجال/7- نبيطة إحساس مغناطيسية ذات مكبر تفاضلي.md"
   ]
 }

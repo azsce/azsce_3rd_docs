@@ -15,9 +15,14 @@
 .env.test.local
 .env.production.local
 
+# Obsidian
+**/.obsidian/
+
+# Syncthing
+**/.stfolder/
+**/.stversions/
+**/sync-conflict-*
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-
-.stfolder/

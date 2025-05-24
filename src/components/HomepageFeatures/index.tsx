@@ -2,6 +2,7 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 type CourseItem = {
@@ -18,12 +19,14 @@ const CourseList: CourseItem[] = [
   },
 ];
 
-function CourseCard({title, image, uri}: CourseItem) {
+function CourseCard({title, image, uri}: Readonly<CourseItem>) {
+  const imageUrl = useBaseUrl(image);
+  
   return (
     <div className={clsx('col col--4')}>
       <Link to={uri} className={styles.courseCard}>
         <div className={styles.courseImageContainer}>
-          <img src={image} alt={title} className={styles.courseImage} />
+          <img src={imageUrl} alt={title} className={styles.courseImage} />
         </div>
         <div className={styles.courseContent}>
           <Heading as="h3">{title}</Heading>
