@@ -4,67 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "d299deb0f8669051",
+        "id": "172d9f2ceb6f89a2",
         "type": "tabs",
         "children": [
           {
-            "id": "720484b4c10c86d1",
+            "id": "29c7c52fb95a6142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "أجهزة الإحساس الضوئية المتكاملة.md",
+                "file": "الحرارة/حل سؤال مقاومة بلاتيني.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "أجهزة الإحساس الضوئية المتكاملة"
+              "title": "حل سؤال مقاومة بلاتيني"
             }
           },
           {
-            "id": "9c927677bccb77d2",
+            "id": "a53a4f853fa86b52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الضوء/أجهزة الإحساس الضوئية المتكاملة 2.md",
+                "file": "المجال/1-  إحساس تأثير المجال (المقدمة).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "أجهزة الإحساس الضوئية المتكاملة 2"
+              "title": "1-  إحساس تأثير المجال (المقدمة)"
             }
           },
           {
-            "id": "407f5b4956f12d58",
+            "id": "5cccf7944e190258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الضوء/4- أجهزة الإحساس الضوئية المتكاملة.md",
+                "file": "المجال/2- أساس تأثير هل.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- أجهزة الإحساس الضوئية المتكاملة"
+              "title": "2- أساس تأثير هل"
             }
           },
           {
-            "id": "c5016b9ed6a2215b",
+            "id": "ce40667a47ec9d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الضوء/3- الترانزستور الضوئي.md",
+                "file": "المجال/3- تشييد تأثير هل.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- الترانزستور الضوئي"
+              "title": "3- تشييد تأثير هل"
+            }
+          },
+          {
+            "id": "b908782be9967206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "المجال/4- نبائط إحساس هل المتكاملة.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4- نبائط إحساس هل المتكاملة"
+            }
+          },
+          {
+            "id": "0e43a468da9c51fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "المجال/5- أجهزة هل لجسم متكامل.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5- أجهزة هل لجسم متكامل"
+            }
+          },
+          {
+            "id": "625b9b25b139dd92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "أجهزة هل المتعامدة.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "أجهزة هل المتعامدة"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -211,11 +253,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5016b9ed6a2215b",
+  "active": "625b9b25b139dd92",
   "lastOpenFiles": [
-    "الضوء/4- أجهزة الإحساس الضوئية المتكاملة.md",
+    "المجال/5- أجهزة هل لجسم متكامل.md",
+    "أجهزة هل المتعامدة.md",
+    "المجال/4- نبائط إحساس هل المتكاملة.md",
+    "المجال/3- تشييد تأثير هل.md",
+    "المجال/2- أساس تأثير هل.md",
+    "المجال/1-  إحساس تأثير المجال (المقدمة).md",
+    "الحرارة/حل سؤال مقاومة بلاتيني.md",
+    "الحرارة",
+    "المجال",
+    "الضوء/تمارين (۷).md",
     "الضوء/3- الترانزستور الضوئي.md",
     "أجهزة الإحساس الضوئية المتكاملة.md",
+    "الضوء/4- أجهزة الإحساس الضوئية المتكاملة.md",
+    "الضوء/تمارين (۷) K.md",
     "الضوء/1- جهاز ذو موصلية ضوئية.md",
     "الضوء/2- الدايودات الضوئية.md",
     "Welcome.md",

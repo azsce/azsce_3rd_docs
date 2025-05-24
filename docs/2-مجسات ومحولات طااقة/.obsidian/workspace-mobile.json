@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الضوء/1- جهاز ذو موصلية ضوئية.md",
-                "mode": "source",
+                "file": "المجال/2- أساس تأثير هل.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- جهاز ذو موصلية ضوئية"
+              "title": "2- أساس تأثير هل"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "المجال/2- أساس تأثير هل.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,5 +152,14 @@
     }
   },
   "active": "3470bdadd3e83a1d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "4- نبائط إحساس هل المتكاملة.md",
+    "المجال/3- تشييد تأثير هل.md",
+    "المجال/1-  إحساس تأثير المجال (المقدمة).md",
+    "الضوء/2- الدايودات الضوئية.md",
+    "الضوء/1- جهاز ذو موصلية ضوئية.md",
+    "الضوء/تمارين (۷).md",
+    "الضوء/تمارين (۷) K.md",
+    "Untitled.md"
+  ]
 }
