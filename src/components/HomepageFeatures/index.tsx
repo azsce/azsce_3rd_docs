@@ -15,7 +15,7 @@ const CourseList: CourseItem[] = [
   {
     title: 'مجسات ومحولات قدرة',
     image: '/img/sesnors.png',
-    uri: '/docs/مجسات%20ومحولات%20طااقة/sensors_intro',
+    uri: '/docs/مجسات%20ومحولات%20طاقة/sensors_intro',
   },
 ];
 
